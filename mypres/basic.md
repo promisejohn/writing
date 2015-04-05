@@ -2,7 +2,7 @@ title: Basic
 author: 
 	name: promise.john@gmail.com
 	url : promisejohn.github.io
-output: basic.html
+output: html/basic.html
 controls: true
 
 --
